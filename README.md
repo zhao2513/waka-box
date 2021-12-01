@@ -29,3 +29,5 @@
 1. Add the following environment variables:
    - **GH_TOKEN:** The GitHub token generated above.
    - **WAKATIME_API_KEY:** The API key for your WakaTime account.
+<!--gh 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 -->
+<!--waka afaaa897-c426-44b2-953e-782fd4634486 -->
